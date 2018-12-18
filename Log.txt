@@ -1,0 +1,8 @@
+Inm Log:
+
+12/17/2018 : Start of Project
+	• Created Unity Project
+	• Created Git
+	• Created Player Movement
+		• Used Translate transform - no more rigidbody for me.
+		• Used Blend Tree to create Animation
