@@ -1,0 +1,60 @@
+• UI
+	• Create Start Menu / Opening Menu
+	• Create Pause Menu
+		• Inventory
+		• Skill List
+		• Quest List
+		• Settings
+	• Create GUI
+		• Health
+		• MP
+		• Minimap
+		• Quest List
+	• Create Item Management
+		• Inventory
+			• Equipment
+		• Loot
+			• Tooltip for items
+			○ Crafting [optional]
+		• Gold
+		• Trade System
+		
+	• Save / Load File
+		• Save Game
+			• Save the World File
+			• Save the Character File
+		• Load
+			• Load the World File
+			• Load the Character File
+• Scene Management
+	• Create Random Generated World
+		• Create Biomes List [16 Biomes]
+		• Generate 3 x 3 Scenes for the World
+			• Each Scene generates enemy camps, dungeons, obstacles [Use Perlin Noise]
+		
+	• Create Instances / Dungeons which appears in the open world 3 x 3;
+	• Create Towns
+		• Create NPC
+			• Talk with NPC
+			• Get Quest
+			• Trade with NPC
+			
+• Player Movement
+	• Movement	- Done 12/17/2018
+	• Attacks
+		• Basic 1, 2, 3 Combo
+	• Skills
+		• 4 Skills
+	○ Animation (optional)
+	
+• Enemies
+	• Mob Groups
+		• AI	[ Simple State Machine ]
+		• Spawning Rate
+	• Boss
+		• AI
+
+○ Multiplayer
+	
+• Narrative
+	• Main Quest 1
