@@ -27,8 +27,22 @@
 			• Load the World File
 			• Load the Character File
 • Scene Management
-	• Create Random Generated World
-		• Create Biomes List [16 Biomes]
+	• Create Random Generated World  
+		• Create Biomes List [16 Biomes] 
+			• Set Biomes
+				• Forest
+				• Desert
+				• Highway
+			• Random Generated Biomes
+				• Snow
+				• Grassland
+				• Mountain
+				• Valley
+				• Wasteland
+				• Midnight Valley
+				• Dark Forest
+				• Riverland
+				• Swamp
 		• Generate 3 x 3 Scenes for the World
 			• Each Scene generates enemy camps, dungeons, obstacles [Use Perlin Noise]
 		

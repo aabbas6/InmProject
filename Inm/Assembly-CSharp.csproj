@@ -61,12 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Area1Generation.cs" />
+    <Compile Include="Assets\Scripts\Button Scripts\DebugRoom.cs" />
+    <Compile Include="Assets\Scripts\Button Scripts\NextArea.cs" />
+    <Compile Include="Assets\Scripts\Button Scripts\RandomWorldGeneration.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\playerController.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Stats.cs" />
-    <Compile Include="Assets\Scripts\WorldGeneration.cs" />
-    <Compile Include="Assets\Scripts\WorldScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Projects/InmProject/Inm/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

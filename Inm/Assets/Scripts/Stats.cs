@@ -7,6 +7,7 @@ public class Stats : MonoBehaviour
     //class that holds the gameobject's stats [ player + enemies ]
     public int hp;
     public int mp;
+    public int level;
 
     public int armor;
     public int damage;
@@ -14,10 +15,16 @@ public class Stats : MonoBehaviour
     public int inte;
     public int dex;
     public float speed;
+    public float diagonalMoveMod;
 
     public float getMS()
     {
         return speed;
+    }
+
+    public float getDMM()
+    {
+        return diagonalMoveMod;
     }
 
 }
